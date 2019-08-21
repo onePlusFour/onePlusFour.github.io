@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[My New Post]]></title>
+    <url>%2F2019%2F08%2F19%2FMy-New-Post%2F</url>
+    <content type="text"><![CDATA[执行下面的命令，将markdown文件生成静态网页。 $ hexo generate该命令执行完后，会在 D:\Hexo\public 目录下生成一系列html，css等文件。ooooo sqrt() 编辑文章 hexo new “My New Post”会在D:\Hexo\source_posts目录下生成一个markdown文件：My-New-Post.md 可以使用一个支持markdown语法的编辑器（比如 Sublime Text 2）来编辑该文件。 部署到Github 部署到Github前需要配置_config.yml文件，首先找到下面的内容 DeploymentDocs: http://hexo.io/docs/deployment.htmldeploy: type:]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F08%2F19%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
