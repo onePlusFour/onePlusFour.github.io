@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[My New Post]]></title>
     <url>%2F2019%2F08%2F19%2FMy-New-Post%2F</url>
-    <content type="text"><![CDATA[执行下面的命令，将markdown文件生成静态网页。 $ hexo generate 该命令执行完后，会在 D: 目录下生成一系列html，css等文件。 ooooo \[sqrt()\] $ $ $ _$ $ = $ 5. 编辑文章 hexo new "My New Post"会在D:_posts目录下生成一个markdown文件：My-New-Post.md 可以使用一个支持markdown语法的编辑器（比如 Sublime Text 2）来编辑该文件。 部署到Github 部署到Github前需要配置_config.yml文件，首先找到下面的内容 Deployment Docs: http://hexo.io/docs/deployment.html deploy: type:]]></content>
+    <content type="text"><![CDATA[执行下面的命令，将markdown文件生成静态网页。 $ hexo generate 该命令执行完后，会在 D: 目录下生成一系列html，css等文件。 ooooo \[sqrt()\] $ $ $ _$ $ = $ 5. 编辑文章 \[\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.\] hexo new "My New Post"会在D:_posts目录下生成一个markdown文件：My-New-Post.md 可以使用一个支持markdown语法的编辑器（比如 Sublime Text 2）来编辑该文件。 部署到Github 部署到Github前需要配置_config.yml文件，首先找到下面的内容 Deployment Docs: http://hexo.io/docs/deployment.html deploy: type: \(\alpha+\beta=\gamma\) \[\alpha+\beta=\gamma\] \[\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\]]]></content>
       <tags>
         <tag>ooxx</tag>
       </tags>
